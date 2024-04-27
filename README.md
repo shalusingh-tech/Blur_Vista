@@ -60,7 +60,8 @@ Start the server
 
 ## User Interface
 
-![image](https://github.com/shalusingh-tech/Blur_Vista/assets/68162265/c90afb08-5323-45d7-b2ef-a6c12709374c.png)
+![image](https://github.com/shalusingh-tech/Blur_Vista/assets/68162265/cf1b72fd-0c6c-4b6a-9906-316b8b072093.jpg)
+
 
 ![image](https://github.com/shalusingh-tech/Blur_Vista/assets/68162265/687f8922-1e5e-4260-8805-3bf9ab8b7453.png)
 
