@@ -23,18 +23,27 @@ Blur Vista is a web application designed to provide users with an intuitive plat
 5. **Apply Blur:** Once all parameters are set, initiate the blur process to automatically apply the effect to the specified objects within the defined time range.
 6. **Preview and Save:** Preview the edited video to ensure the desired blurring effect is achieved. Save the edited video once satisfied with the results.
 
+
+## Technologies Used
+
+- **SDK:** Gradio
+- **Machine Learning:** TensorFlow
+- **Image Processing:** OpenCV, PIL
+- **Data Manipulation:** NumPy
+
+
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/shalusingh-tech/
+  git clone https://github.com/shalusingh-tech/Blur_Vista.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd MLNetGuard-Machine-Learning-Powered-Network-Security-Solution
+  cd Blur_Vista.git
 ```
 
 Install dependencies
@@ -46,13 +55,7 @@ Install dependencies
 Start the server
 
 ```bash
-  python src/components/data_ingestion.py
+  python app.py
 
-## Technologies Used
-
-- **SDK:** Gradio
-- **Machine Learning:** TensorFlow
-- **Image Processing:** OpenCV, PIL
-- **Data Manipulation:** NumPy
 
 
