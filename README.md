@@ -1,10 +1,10 @@
-# Video Object Blur
+# BlurVista👓
 
 Automated web application for selectively blurring objects within uploaded videos based on user-defined parameters.
 
 ## Overview
 
-Video Object Blur is a web application designed to provide users with an intuitive platform to upload videos and selectively blur specific objects within those videos. This project offers a solution for privacy concerns or content editing where certain objects need to be obscured. Users can define the objects they want to blur, set the time range for the blurring effect, and adjust the blur intensity according to their preferences.
+Blur Vista is a web application designed to provide users with an intuitive platform to upload videos and automatically  blur specific objects within those videos. This project offers a solution for privacy concerns or content editing where certain objects need to be obscured. Users can define the objects they want to blur, set the time range for the blurring effect, and adjust the blur intensity according to their preferences.
 
 ## Features
 
@@ -23,25 +23,36 @@ Video Object Blur is a web application designed to provide users with an intuiti
 5. **Apply Blur:** Once all parameters are set, initiate the blur process to automatically apply the effect to the specified objects within the defined time range.
 6. **Preview and Save:** Preview the edited video to ensure the desired blurring effect is achieved. Save the edited video once satisfied with the results.
 
-## Installation
+## Run Locally
 
-This section will include instructions on how to install and run the application locally if applicable.
+Clone the project
+
+```bash
+  git clone https://github.com/shalusingh-tech/
+```
+
+Go to the project directory
+
+```bash
+  cd MLNetGuard-Machine-Learning-Powered-Network-Security-Solution
+```
+
+Install dependencies
+
+```bash
+  pip install -r requirements.txt
+```
+
+Start the server
+
+```bash
+  python src/components/data_ingestion.py
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript (with libraries such as React or Vue.js)
-- **Backend:** Node.js, Express.js
-- **Video Processing:** FFmpeg (or alternative libraries for video manipulation)
-- **Storage:** Filesystem or cloud storage (like Amazon S3, Google Cloud Storage)
+- **SDK:** Gradio
+- **Machine Learning:** TensorFlow
+- **Image Processing:** OpenCV, PIL
+- **Data Manipulation:** NumPy
 
-## Contributors
 
-List the contributors who have contributed to the development of this project.
-
-## License
-
-Specify the license under which the project is released. This could be open source licenses like MIT, GPL, etc.
-
-## Support
-
-Provide contact information or links for users to seek support or report issues related to the application.
