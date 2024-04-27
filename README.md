@@ -43,7 +43,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Blur_Vista.git
+  cd Blur_Vista
 ```
 
 Install dependencies
@@ -57,5 +57,9 @@ Start the server
 ```bash
   python app.py
 
+
+## User Interface
+![alt text](image.png)
+![alt text](image-1.png)
 
 
