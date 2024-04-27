@@ -1,0 +1,8 @@
+tensorflow
+numpy
+Pillow
+opencv-python
+matplotlib
+tensorflow_hub
+pandas
+gradio
