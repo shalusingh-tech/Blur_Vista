@@ -58,8 +58,8 @@ Start the server
   python app.py
 ```
 
-## Link to run app
-- Link: singhtech/Blur_Vista
+## Link of  app running on cloud
+- Link: https://huggingface.co/spaces/singhtech/Blur_Vista
 ## User Interface
 
 ![img](https://github.com/shalusingh-tech/Blur_Vista/assets/68162265/08971973-fce1-47fe-9921-304040f6bac1)
