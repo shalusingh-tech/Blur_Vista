@@ -59,7 +59,8 @@ Start the server
 
 
 ## User Interface
-![alt text](image.png)
-![alt text](image-1.png)
+![image](https://github.com/shalusingh-tech/Blur_Vista/assets/68162265/c90afb08-5323-45d7-b2ef-a6c12709374c)
+![image](https://github.com/shalusingh-tech/Blur_Vista/assets/68162265/687f8922-1e5e-4260-8805-3bf9ab8b7453)
+
 
 
